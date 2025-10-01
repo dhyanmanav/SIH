@@ -59,7 +59,7 @@ export function Hero({ onStartAssessment }: HeroProps) {
         >
           <Badge className="bg-green-100 text-green-800 border-green-200">
             <Award className="size-3 mr-1" />
-            TEAM : CODE BLOODED
+            TEAM : CYBER NERVES
           </Badge>
           <Button variant="outline">
             <Users className="size-4 mr-2" />
